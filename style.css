@@ -47,6 +47,10 @@ button{
     
 }
 
+#btnao{
+    position: absolute;
+}
+
 button:hover{
     background-color: rgba(128, 128, 128, 0.342);
 }
